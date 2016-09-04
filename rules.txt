@@ -1,66 +1,66 @@
 =========
 •General•
 =========
-Follow New Life Rule (NLR) and do not stay within the NLR circle. Unless you got killed by rulebreakers (RDM/Prop Kill), you must forget everything in your previous life.
+G1. Follow New Life Rule (NLR) and do not stay within the NLR circle. Unless you got killed by rulebreakers (RDM/Prop Kill), you must forget everything in your previous life.
 However, if you happen to witness an event such as a raid in process, again in your new life, feel free to defend your place again. If you have the means to, without staying in the NLR circle.
 
-Do not FailRP in the server. This means that you are exploiting the server’s features to gain advantage or escape a situation, and that it defeats the purpose of RP. (Changing jobs when kidnapped)
+G2. Do not FailRP in the server. This means that you are exploiting the server’s features to gain advantage or escape a situation, and that it defeats the purpose of RP. (Changing jobs when kidnapped)
 With that said, hacks gets you banned as well. Of course.
 
-Bhopping is not allowed in the server. Using it in RP gives you an advantage over players and it makes players believe you are speed hacking.
+G3. Bhopping is not allowed in the server. Using it in RP gives you an advantage over players and it makes players believe you are speed hacking.
 
-Do not meta game in the server - using OOC knowledge that the player should not be aware of or killing a hitman since he has a hit ongoing.
+G4. Do not meta game in the server - using OOC knowledge that the player should not be aware of or killing a hitman since he has a hit ongoing.
 
-Do not change your job name to an existing job name - if you are a hitman, you can’t change your job name to Citizen.
+G5. Do not change your job name to an existing job name - if you are a hitman, you can’t change your job name to Citizen.
 
-Don’t flood the chat with spam.
+G6. Don’t flood the chat with spam.
 
-Don’t troll, unless you’re having a friendly banter with your friends and they don’t interfere with other’s gameplay.
+G7. Don’t troll, unless you’re having a friendly banter with your friends and they don’t interfere with other’s gameplay.
 
-Show others the respect they deserve.
-===================================
-• Props & Construction in General •
-===================================
-Do not prop spam, rope spam, prop push, prop climb or prop surf. You will be banned without warning, depending on the severity.
+G8. Show others the respect they deserve.
+=================================
+•Props & Construction in General•
+=================================
+P1. Do not prop spam, rope spam, prop push, prop climb or prop surf. You will be banned without warning, depending on the severity.
 
-Do not build any mechanisms or contraptions that involves the unghosting prop spawning bug.
+P2. Do not build any mechanisms or contraptions that involves the unghosting prop spawning bug.
 
-Be cautious when spawning large props.
+P3. Be cautious when spawning large props.
 
-Minimize building random contraptions in your base and do not let it interfere with RP. Like blocking off your printers with a prop, then removing it only when you need to access the area.
+P4. Minimize building random contraptions in your base and do not let it interfere with RP. Like blocking off your printers with a prop, then removing it only when you need to access the area.
 
-=====================
-• Base Construction •
-=====================
-A base must not restrict access of an ATM to the public.
+===================
+•Base Construction•
+===================
+B1. A base must not restrict access of an ATM to the public.
 
-Bases too big & causing massive lag to others will be removed if needed. So big bases are not advised.
+B2. Bases too big & causing massive lag to others will be removed if needed. So big bases are not advised.
 
-In order to build a big base, all the members of the party must own all of the doors in that district.
+B3. In order to build a big base, all the members of the party must own all of the doors in that district.
 
-You can completely block pathways to your base / area, provided that there is one accessible pathway.
+B4. You can completely block pathways to your base / area, provided that there is one accessible pathway.
 
-Security cameras are to be placed on your physical property such as above your entrance. Placing them across the street or somewhere unreasonable is not allowed. Do not place any invisible materials on a camera.
+B5. Security cameras are to be placed on your physical property such as above your entrance. Placing them across the street or somewhere unreasonable is not allowed. Do not place any invisible materials on a camera.
 
-KOS lines are not allowed & can be ignored by players if seen. The roads/walkways’ not yours, but any intruders in your own property, provided if you have owned all the doors in the area, can be killed.
+B6. KOS lines are not allowed & can be ignored by players if seen. The roads/walkways’ not yours, but any intruders in your own property, provided if you have owned all the doors in the area, can be killed.
 
-Building signs can be placed in order to inform the public that you are building, but you can still be raided. 
+B7. Building signs can be placed in order to inform the public that you are building, but you can still be raided. 
 
-When basing, do not use one-way props (raider cannot see, but owner can). This also includes non-bulletproof props or mechanisms that behave like a one-way mirror.
+B8. When basing, do not use one-way props (raider cannot see, but owner can). This also includes non-bulletproof props or mechanisms that behave like a one-way mirror.
 
-The use of crouch tunnels and silhouette prop material are forbidden. Bases are not mazes.
+B9. The use of crouch tunnels and silhouette prop material are forbidden. Bases are not mazes.
 
-Fading doors cannot be placed against a locked door, making it impossible to crack in.
+B10. Fading doors cannot be placed against a locked door, making it impossible to crack in.
 
-Users are entitled to 1 fading door per real door. Which means if there’s 2 doors, you get to put down 2 fading doors correspondingly.
+B11. Users are entitled to 1 fading door per real door. Which means if there’s 2 doors, you get to put down 2 fading doors correspondingly.
 
-Fading doors must last for at least 8 seconds while opened, and have a keypad for the door which must be easily accessible (not obscured in anyway or crack-able from one-angle.) 
+B12. Fading doors must last for at least 8 seconds while opened, and have a keypad for the door which must be easily accessible (not obscured in anyway or crack-able from one-angle.) 
 
-Keep in mind that your keypad must be made easily accessible. You cannot have any “parkour” or hiding keypads and they must be within the same area / vicinity / room of the door itself.
+B13. Keep in mind that your keypad must be made easily accessible. You cannot have any “parkour” or hiding keypads and they must be within the same area / vicinity / room of the door itself.
 
-You are not allowed to no-collide your walls to get inside your base, you must enter in the same way(s) that a raider would have to enter. This is for fair play.
+B14. You are not allowed to no-collide your walls to get inside your base, you must enter in the same way(s) that a raider would have to enter. This is for fair play.
 
-(Placeholder for Construction Special Base)
+•
 Do not build in other people’s places unless they let you.
 
 
