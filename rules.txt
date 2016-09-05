@@ -91,7 +91,7 @@ R1. A raid can occur anytime from anywhere, like getting sniped from miles away.
 
 R2. If you see an exchange of gunfire during raids, avoid the area. Approaching the AO can get you killed. Innocents get dragged in all the time & it will not be considered RDM. As defenders and attackers will not be 100% sure of who’s their enemies, unless sighted.
 
-R3. You can only assasinate the Mayor IF the economy's reputation is 20% or below! Otherwise, it will be deemed as RDM.
+R3. You can only assasinate the Mayor IF the economy's reputation is below 25%, or if tax is set at a unreasonably high rate, such as 50%! Otherwise, it will be deemed as RDM.
 
 ||Jobs||
 ==================
