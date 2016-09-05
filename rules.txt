@@ -4,6 +4,7 @@ We implement very different rules from the commonly known servers out there to p
 Please do read through, you will learn to enjoy it as it is.
 
 ||General||
+===========
 G1. Follow New Life Rule (NLR) and do not stay within the NLR circle. Unless you got killed by rulebreakers (RDM/Prop Kill), you must forget everything in your previous life.
 However, if you happen to witness an event such as a raid in process, again in your new life, feel free to defend your place again. If you have the means to, without staying in the NLR circle.
 
@@ -22,6 +23,18 @@ G7. Don’t troll, unless you’re having a friendly banter with your friends an
 
 G8. Show others the respect they deserve.
 
+===================
+•Random Deathmatch•
+===================
+RDM1. If you have unintentionally killed someone by accident, do not pickup anything the victim dropped. Else you are 100% getting warned, as it will be deemed as intentional RDM. You are also going to compensate for whatever amount of goods he lost.
+
+RDM2. If someone has killed another person, whatever the dead dropped is considered the attacker's. The attacker can kill whoever tries to steal/take away his earned possession. Hence, it is not RDM in this case.
+
+RDM3. Road rules are a thing in the server, if you're standing in the middle of the road & a car runs you over. It is not RDM. So keep your eyes out while crossing the roads.
+
+RDM4. However, if the car is OFFROAD, and it runs you over, it CAN BE deemed as RDM. Only IF the dropped possessions are picked up, otherwise leave it there & return the stuff to the owner to clear youself out of trouble.  (Refer to RDM1)
+
+RDM5. If someone claims that you've RDMed, but in fact you have roleplayed it out by using mic/typing. Given if there's enough time for a reply before killing, explain it to the admins. Failure to explain will get you a warn/kick, even a ban if frequently happens.
 ======================
 •Props & Construction•
 ======================
