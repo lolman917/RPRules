@@ -66,7 +66,9 @@ B16. You are not allowed to build during a raid, which is inclusive of freezing 
 
 ||Vehicle||
 VC1. Do not no-collide your vehicle, it’s basically cheating.
+
 VC2. Do not use props to destroy others’ cars, it’s no fun & you’re basically trolling.
+
 VC3. Vehicles are meant for transportation or entertainment purposes, not as a tool of annoyance. You can rape your friends’ ears but stop if others are complaining, you will get a warn if you don’t. - Tip: In the event one doesn’t stop & there’s no admin around, type “stopsound” in your console and it’ll fix everything. Until the feg horns again. d:
 
 
@@ -75,16 +77,22 @@ VC3. Vehicles are meant for transportation or entertainment purposes, not as a t
 •Civil Protection•
 ==================
 CP1. CPs are allowed to conduct weapon check in the PD and the Bank. Naturally anywhere where you won’t need a gun in, even for self-defense purposes - arrest if anyone doesn’t comply to have their illegal guns confiscated.
+
 CP2. CPs should do their jobs well and have a valid reason for arresting, searching, warranting and wanting a player.
+
 CP3. CPs are allowed to use lethal force on lawbreakers after a valid warning. Like you’d IRL.
+
 CP4. CPs can arrest players during a lockdown, except for government officials and hobos. Make sure you give out warnings first.
+
 CP5. CPs are liable for demotion when corrupt, but can own doors, bases and printers. They are not allowed to raid, warrant or search other players, and are limited to defending their base.
 
 =======
 •Mayor•
 =======
 M1. You are not allowed to place any laws that can run contradictory to the server rules. - Like trolling & stuff.
+
 M2. You can initiate a lockdown for whatever reason, although a grace period should be given for players to return indoors.
+
 M3. You can be recalled/demoted if you’re a bad Mayor. D: (failing to do duties, answer warrants or owning printers etc.).
 
 =========
@@ -96,6 +104,7 @@ C1. Don’t do bad things that involves threathening other’s life, but you can
 •Doctor•
 ========
 D1. As a poor, freelance doctor, you are required to heal anyone that requests for help, regardless of jobs
+
 D2. Do not take part in any raids/criminal activities. You are too weak as well as untrained to be in combat
 
 =======
@@ -107,6 +116,7 @@ M1. Do not heal people outside of combat. Doctors would be useless that way
 •Gun Dealers•
 =============
 GD1. Vendor classes are defined as Gun Dealer, Heavy Gun Dealer, Black Market Dealer and Prostitute.
+
 GD2. Vendors must sell their goods to the public, they are not allowed to fully restrict their trade.
 
 =========
@@ -143,4 +153,4 @@ RP1. Don’t constantly rape the same people, I’d say the most anyone can last
 =========
 •Farming•
 =========
-You can plant anywhere you like - of course only on soil grounds. But if it happens to be against the Mayor’s Law, good luck moving.
+FM1. You can plant anywhere you like - of course only on soil grounds. But if it happens to be against the Mayor’s Law, good luck moving.
