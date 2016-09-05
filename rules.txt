@@ -1,3 +1,8 @@
+
+Welcome to DarkRv!
+We implement very different rules from the commonly known servers out there to provide players a unique RP experience.
+Please do read through, you will learn to enjoy it as it is.
+
 ||General||
 G1. Follow New Life Rule (NLR) and do not stay within the NLR circle. Unless you got killed by rulebreakers (RDM/Prop Kill), you must forget everything in your previous life.
 However, if you happen to witness an event such as a raid in process, again in your new life, feel free to defend your place again. If you have the means to, without staying in the NLR circle.
@@ -63,14 +68,30 @@ B15. Do not build in other people’s places unless they let you.
 
 B16. You are not allowed to build during a raid, which is inclusive of freezing your props if they become unwelded or unfrozen by the raider.
 
+=============
+•Advertising•
+=============
+AD1. DO NOT use the advert billboard to exploit/troll. Spawning it into players/cars OR blocking bullets/roads with it will get you kicked. #banhammer if it happens again.
+AD2. Advertising - should be used as it is. Advertising any crimes is NOT necessary. It will be considered announcing to the whole world that you’re committing a crime. CPs can arrest/kill you on sight the moment any crimes are advertised.
 
-||Vehicle||
+=========
+•Vehicle•
+=========
 VC1. Do not no-collide your vehicle, it’s basically cheating.
 
 VC2. Do not use props to destroy others’ cars, it’s no fun & you’re basically trolling.
 
 VC3. Vehicles are meant for transportation or entertainment purposes, not as a tool of annoyance. You can rape your friends’ ears but stop if others are complaining, you will get a warn if you don’t. - Tip: In the event one doesn’t stop & there’s no admin around, type “stopsound” in your console and it’ll fix everything. Until the feg horns again. d:
 
+============================
+•Raiding/Mayor Assasination•
+============================
+
+R1. A raid can occur anytime from anywhere, like getting sniped from miles away.
+
+R2. If you see an exchange of gunfire during raids, avoid the area. Approaching the AO can get you killed. Innocents get dragged in all the time & it will not be considered RDM. As defenders and attackers will not be 100% sure of who’s their enemies, unless sighted.
+
+R3. You can only assasinate the Mayor IF the economy's reputation is 20% or below! Otherwise, it will be deemed as RDM.
 
 ||Jobs||
 ==================
