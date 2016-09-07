@@ -24,6 +24,8 @@ G7. Don’t troll, unless you’re having a friendly banter with your friends an
 
 G8. Show others the respect they deserve.
 
+G9. Please refrain from using the same name as another player
+
 ===================
 •Random Deathmatch•
 ===================
@@ -120,6 +122,8 @@ CP3. CPs are allowed to use lethal force on lawbreakers after a valid warning. L
 CP4. CPs can arrest players during a lockdown, except for government officials and hobos. Make sure you give out warnings first.
 
 CP5. CPs are liable for demotion when corrupt, but can own doors, bases and printers. They are not allowed to raid, warrant or search other players, and are limited to defending their base.
+
+CP6. You can arrest/kill anyone with their gun pointed towards you, but this doesn't apply to anyone having their gun out but it's in safe mode/pointed down.
 
 =======
 •Mayor•
